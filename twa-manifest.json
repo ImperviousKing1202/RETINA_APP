@@ -1,6 +1,6 @@
 {
-  "packageId": "dev.ngrok_free.micronemous_inge_ornithologically.twa",
-  "host": "micronemous-inge-ornithologically.ngrok-free.dev",
+  "packageId": "app.vercel.retina_app_five.twa",
+  "host": "retina-app-five.vercel.app",
   "name": "RETINA: Real-Time Eye-Disease Testing",
   "launcherName": "RETINA",
   "display": "standalone",
@@ -13,8 +13,8 @@
   "backgroundColor": "#FFFFFF",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "https://micronemous-inge-ornithologically.ngrok-free.dev/retina-logo.png",
-  "maskableIconUrl": "https://micronemous-inge-ornithologically.ngrok-free.dev/retina-logo.png",
+  "iconUrl": "https://retina-app-five.vercel.app/public/retina-logo.png",
+  "maskableIconUrl": "https://retina-app-five.vercel.app/public/retina-logo.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/gsadmin/FINAL_RETINA/android.keystore",
@@ -26,18 +26,18 @@
     {
       "name": "Start CNN Analysis",
       "shortName": "Analyze",
-      "url": "https://micronemous-inge-ornithologically.ngrok-free.dev/cnn-detection",
-      "chosenIconUrl": "https://micronemous-inge-ornithologically.ngrok-free.dev/retina-logo.png"
+      "url": "https://retina-app-five.vercel.app/cnn-detection",
+      "chosenIconUrl": "https://retina-app-five.vercel.app/public/retina-logo.png"
     },
     {
       "name": "Training Mode",
       "shortName": "Train",
-      "url": "https://micronemous-inge-ornithologically.ngrok-free.dev/cnn-training",
-      "chosenIconUrl": "https://micronemous-inge-ornithologically.ngrok-free.dev/retina-logo.png"
+      "url": "https://retina-app-five.vercel.app/cnn-training",
+      "chosenIconUrl": "https://retina-app-five.vercel.app/public/retina-logo.png"
     }
   ],
   "generatorApp": "bubblewrap-cli",
-  "webManifestUrl": "https://micronemous-inge-ornithologically.ngrok-free.dev/manifest.json",
+  "webManifestUrl": "https://retina-app-five.vercel.app/manifest.json",
   "fallbackType": "customtabs",
   "features": {},
   "alphaDependencies": {
@@ -46,7 +46,7 @@
   "enableSiteSettingsShortcut": true,
   "isChromeOSOnly": false,
   "isMetaQuest": false,
-  "fullScopeUrl": "https://micronemous-inge-ornithologically.ngrok-free.dev/",
+  "fullScopeUrl": "https://retina-app-five.vercel.app/",
   "minSdkVersion": 21,
   "orientation": "portrait",
   "fingerprints": [],
